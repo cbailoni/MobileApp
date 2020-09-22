@@ -6,6 +6,8 @@ TS-01003
 D-01003
 S-01032
 S-01007
+S-01007 - Testing
+
 <a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
     <img src="https://push-to.cfapps.io/ui/assets/images/Push-to-Pivotal-Light-with-Shadow.svg" width="180" alt="Push" align="center">
 </a>
@@ -152,3 +154,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 #Test 3 of Change ALL WorkItem Status - Using OID StoryStatus:133=Future to StoryStatus:134=In Progress
 # Test4 using Copy Manifest to the workspace 
 # Testing using Copy Manifest and also using In Progress without pre status
+# Testing with Manifest + In Progress as Current Status and a Done as New Status
