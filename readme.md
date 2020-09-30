@@ -7,6 +7,7 @@ D-01003
 S-01032
 S-01007
 S-01007 - Testing
+S-01007 - Testing
 
 <a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
     <img src="https://push-to.cfapps.io/ui/assets/images/Push-to-Pivotal-Light-with-Shadow.svg" width="180" alt="Push" align="center">
