@@ -150,3 +150,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # Testing using Copy Manifest and also using In Progress without pre status
 # Testing with Manifest + In Progress as Current Status and a Done as New Status
 # S-01008 Testing
+# S-01008 Another Test
