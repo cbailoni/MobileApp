@@ -151,4 +151,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # Testing with Manifest + In Progress as Current Status and a Done as New Status
 # S-01008 Testing
 # S-01008 Another Test 2
-# S-01032 Dev Status Test
+# S-01032 Dev Status Test 2
