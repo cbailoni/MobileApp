@@ -154,4 +154,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # S-01032 Dev Status Test 2
 # S-01032 - Dev StoryStatus:2187
 # S-01020 - Ship Order 
-# Test New SKO2021 Demo
+# Test New SKO2021 Demo 2
