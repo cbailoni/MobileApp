@@ -28,7 +28,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 ```.S-01019
 ./mvnw spring-boot:run.
-```
+```S-01019
 
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
