@@ -26,11 +26,7 @@ You can then access petclinic here: http://localhost:8080
 
 Or you can run it from Maven directly using the Spring Boot Maven plugin. If you do this it will pick up changes that you make in the project immediately (changes to Java source files require a compile as well - most people use an IDE for this):
 
-```.S-01019 v
-```.S-01019
 ./mvnw spring-boot:run.
-```S-01019e
-
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
@@ -159,3 +155,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # Test New SKO2021 Demo 2
 # SKO Testing Pipeline Run to update DaaG from XL Release 57
 # D-01004
+# S-01019
