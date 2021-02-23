@@ -64,7 +64,7 @@ The following items should be installed in your system:
 
 ### Steps:
 
-1) On the command line
+1) On the command lineS-01021 - Demo B3
 ```
 git clone https://github.com/spring-projects/spring-petclinic.git
 ```
