@@ -157,4 +157,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # D-01004
 # S-01019
 # S-01019
-# S-01021 - Demo B3
+# S-01021 - MotionInd
